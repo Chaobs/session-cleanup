@@ -19,10 +19,10 @@ Copy the `session-cleanup` folder to your WorkBuddy skills directory:
 
 ```bash
 # User-level (available across all projects)
-cp -r session-cleanup ~/.workbuddy/skills/
+cp -r session-cleanup ~/.openclaw/skills/
 
 # Project-level (shared among team members)
-cp -r session-cleanup .workbuddy/skills/
+cp -r session-cleanup .openclaw/skills/
 ```
 
 ## Usage
